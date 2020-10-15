@@ -6,6 +6,8 @@ public class GitSampleTest {
 		
 		System.out.println("this is my first line");
 
+		System.out.println("this is my second line");
+
 	}
 
 }
